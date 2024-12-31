@@ -3,7 +3,7 @@ import { HfInference } from "https://cdn.jsdelivr.net/npm/@huggingface/inference
 
 // CONNECT TO HF API
 // replace the HF_TOKEN value with your own
-const HF_TOKEN = "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";
+const HF_TOKEN = "insert token here";
 const inference = new HfInference(HF_TOKEN);
 
 //animated text sketch
